@@ -28,6 +28,7 @@ int main()
 			break;
 	}
 
+	cout << "Ovo sam dodao!" << endl;
 	cout << "Goodbye!" << endl;
 
 	system("pause");
